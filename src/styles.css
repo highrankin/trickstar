@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 70%;
+  margin: auto;
+  padding: 20px;
+}
+
+.Table {
+  justify-items: center;
+  justify-self: center;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.TableHead {
+  height: 50px;
+}
+
+.button {
+  margin: 10px;
+}
+
+.form {
+  border-color: lightgray;
+  border-width: 1px;
+  border-style: solid;
+  padding: 10px;
+  margin: auto;
+  width: 50%;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+.image {
+
+max-width: 200px;
+
+}
